@@ -1,0 +1,7 @@
+palavra=input("Digite uma palavra:")
+palavra=palavra.replace("a","aa")
+palavra=palavra.replace("e","ee")
+palavra=palavra.replace("i","ii")
+palavra=palavra.replace("o","oo")
+palavra=palavra.replace("u","uu")
+print(palavra)

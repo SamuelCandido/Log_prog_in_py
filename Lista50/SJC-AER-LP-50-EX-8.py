@@ -1,0 +1,7 @@
+palavra=input("Digite uma palavra:")
+a=palavra.count("a")
+e=palavra.count("e")
+i=palavra.count("i")
+o=palavra.count("o")
+u=palavra.count("u")
+print("A palavra ", palavra," teve:", a,"letras 'a'.", e,"letras 'e'.", i,"letras 'i'.", o,"letras 'o'.", u,"letras 'u'.")
